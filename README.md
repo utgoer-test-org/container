@@ -47,3 +47,4 @@ Using `ghcr.io/graalvm/native-image` you will always get the latest update avail
 
 Note some terms and restrictions that may apply to the open source technology.
 The container image you select and all of the software that it contains is licensed under one or more open source license that are provided in the container image. Your use of the container is subject to the terms of those licenses.
+sd
